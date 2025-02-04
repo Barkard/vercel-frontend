@@ -1,0 +1,13 @@
+.header-container {
+    border-bottom: 4px;
+    background-color: rgba(103, 32, 68, 0.712);
+    text-decoration: none;
+}
+
+.simplebar {
+    background-color: rgba(103, 32, 68, 0.712);
+}
+
+.light-bg-pro {
+    background-color: rgb(249,203,165);
+}
