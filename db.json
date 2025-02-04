@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "37a7",
+      "name": "Leon",
+      "lastname": "Pineda",
+      "id_card": "28169315",
+      "email": "juniorpinedafi2gueroa@gmail.com",
+      "birthdate": "2000-12-15",
+      "is_active": true
+    },
+    {
+      "id": "2a02",
+      "name": "Roaxi",
+      "lastname": "Gamboa",
+      "id_card": "28169312",
+      "email": "roaxig@gmail.com",
+      "birthdate": "2000-06-15",
+      "is_active": true
+    }
+  ],
+  "category_books": [
+    {
+      "id": "5fb0",
+      "name": "Fiction",
+      "description": "Fiction Category"
+    },
+    {
+      "id": "752f",
+      "name": "Science",
+      "description": "science category"
+    },
+    {
+      "id": "681b",
+      "name": "Leon",
+      "description": "asdasd"
+    },
+    {
+      "id": "a28a",
+      "name": "dsfsdf",
+      "description": "science category"
+    }
+  ],
+  "books": [
+    {
+      "id": "125a",
+      "title": "asasa",
+      "author": "akira",
+      "category_id": "681b",
+      "description": "asasas"
+    }
+  ]
+}
